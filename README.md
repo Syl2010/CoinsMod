@@ -1,0 +1,2 @@
+# CoinsMod
+add coins.
