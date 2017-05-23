@@ -1,0 +1,19 @@
+[
+{
+  "modid": "coins",
+  "name": "Coins",
+  "description": "add coins.",
+  "version": "1.0.0.0",
+  "mcversion": "1.11.2",
+  "url": "syl2010.fr",
+  "updateUrl": "",
+  "authorList": ["Syl2010"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": false,
+  "reuiredMods": [],
+  "dependencies": [],
+  "dependants": []
+}
+]
