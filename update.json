@@ -1,0 +1,13 @@
+{
+  "homepage": "http://syl2010.fr",
+  "1.11.2": {
+    "1.0.0.0": "Fisrt version", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+  },
+  "promos": {
+    "1.11.2-latest": "1.0.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.11.2-recommended": "1.0.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+  }
+}
