@@ -6,7 +6,7 @@
   "version": "1.0.0.0",
   "mcversion": "1.11.2",
   "url": "http://syl2010.fr",
-  "updateUrl": "http://syl2010.fr/CoinsMod/update.json",
+  "updateUrl": "http://git.syl2010.fr/CoinsMod/blob/master/update.json",
   "authorList": ["Syl2010"],
   "credits": "",
   "logoFile": "",
